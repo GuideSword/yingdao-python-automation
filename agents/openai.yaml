@@ -1,0 +1,6 @@
+interface:
+  display_name: "影刀 Python 自动化"
+  short_description: "为 Codex 编写影刀 Python 流程，默认不用拖拽或 Computer Use"
+  default_prompt: "使用 $yingdao-python-automation 创建影刀 Python 自动化模块，默认通过脚本和文件完成，不使用 Computer Use。"
+policy:
+  allow_implicit_invocation: true
